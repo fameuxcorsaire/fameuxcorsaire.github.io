@@ -1,0 +1,19 @@
+guía de cambio de estilo
+
+###espacios
+cambiar mb-x con x={1,2,3,4,5} para variar espaciado
+
+
+###estilo colors/fuentes: buscar keywords en css
+color:enlaces/hipervínculos......hyperlinkcolor
+color:mail(sección a)............asectioncolor
+color:fondo + texto highlight....primarycolor(2 instances, hex+rgb)
+color:social icons...............socialiconscolor
+
+estilo:subtitulos................subheadingstyle
+estilo:titulos...................headingstyle
+
+##iconos customizados
+clase..........................basic_icon
+ejemplo de introducir imagen como icono:
+     <li class="list-inline-item"><img class="fortran_icon" src="assets/icons/fortran.png"></i></li>

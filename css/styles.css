@@ -573,6 +573,7 @@ progress {
   height: auto;
   width: auto;
   display: block;
+  padding-bottom: 1rem;
 }
 
 .list-inline {

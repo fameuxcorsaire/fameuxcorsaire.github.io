@@ -625,8 +625,21 @@ progress {
   content: "— ";
 }
 
+.img-mobile {
+  display: none;
+}
+
+.img-no_mobile {
+  display: inline-block;
+}
+
+@media (max-width: 994px) {
+  .img-mobile { display: inline-block !important; }
+  .img-no_mobile  { display: none !important; }
+}
+
 .img-fluid {
-  max-width: 35%;
+  max-width: 60%;
   height: auto;
 }
 

@@ -22,6 +22,3 @@ anchura y espaciado de secciones.content_width_spacing
 clase..........................basic_icon
 ejemplo de introducir imagen como icono:
      <li class="list-inline-item"><img class="fortran_icon" src="assets/icons/fortran.png"></i></li>
-
-###imagen principal
-css .main_image

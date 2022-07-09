@@ -13,12 +13,13 @@ color:social icons...............socialiconscolor
 estilo:subtitulos................subheadingstyle
 estilo:titulos...................headingstyle
 
+estilo de texto amarillo.........yellowtextstyle
+
 tamaño fuente título.............contents_fontsize
 anchura y espaciado de secciones.content_width_spacing
 
-
+##publicaciones
+estilo de las imágenes y listas..publications
 
 ##iconos customizados
 clase..........................basic_icon
-ejemplo de introducir imagen como icono:
-     <li class="list-inline-item"><img class="fortran_icon" src="assets/icons/fortran.png"></i></li>

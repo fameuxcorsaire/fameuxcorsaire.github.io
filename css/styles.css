@@ -625,6 +625,13 @@ progress {
   content: "— ";
 }
 
+/*publications*/
+
+.publication{
+  display: inline-block;
+  max-width: 80%;
+}
+
 .img-mobile {
   display: none;
 }
@@ -7755,6 +7762,13 @@ textarea.form-control-lg {
 }
 
 /* rtl:end:remove */
+/*yellowtextstyle*/
+.text-primary-small {
+  font-size: 1.3rem;
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;
+}
+
 .text-primary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;
@@ -11452,7 +11466,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 55rem;
+  max-width: 60rem;
 }
 
 section.resume-section .resume-section-content {

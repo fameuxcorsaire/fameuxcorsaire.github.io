@@ -13,6 +13,11 @@ color:social icons...............socialiconscolor
 estilo:subtitulos................subheadingstyle
 estilo:titulos...................headingstyle
 
+tamaño fuente título.............contents_fontsize
+anchura y espaciado de secciones.content_width_spacing
+
+
+
 ##iconos customizados
 clase..........................basic_icon
 ejemplo de introducir imagen como icono:

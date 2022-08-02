@@ -18,8 +18,6 @@ estilo de texto amarillo.........yellowtextstyle
 tamaño fuente título.............contents_fontsize
 anchura y espaciado de secciones.content_width_spacing
 
-##publicaciones
+##demás parámetros
 estilo de las imágenes y listas..publications
-
-##iconos customizados
-clase..........................basic_icon
+iconos tipo skills...............basic_icon

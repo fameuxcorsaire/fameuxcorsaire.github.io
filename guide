@@ -21,5 +21,6 @@ anchura y espaciado de secciones.content_width_spacing
 ##demás parámetros
 estilo de las imágenes y listas..publications
 iconos tipo skills...............basic_icon
+iconos tipo social...............social_icon
 cambio de pc a movil(990px)......mobile_icon_list_switch
                                  image_switch

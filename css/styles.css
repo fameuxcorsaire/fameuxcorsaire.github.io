@@ -252,6 +252,14 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+/*highlight_section*/
+highlight {
+  color: #324e89;
+  font-weight: bold;
+}
+
+
+
 pre,
 code,
 kbd,

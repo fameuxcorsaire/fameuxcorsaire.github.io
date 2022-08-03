@@ -1,5 +1,12 @@
 guía de cambio de estilo
 
+#clases interesantes
+highlight........................texto azul y bold
+a................................hipervínculos
+h1,h2,h3.........................títulos
+text-primary.....................texto amarillo
+
+
 ###espacios
 cambiar mb-x con x={1,2,3,4,5} para variar espaciado
 

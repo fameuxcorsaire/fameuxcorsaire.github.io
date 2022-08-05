@@ -26,11 +26,12 @@ estilo de texto amarillo.........yellowtextstyle
 tamaño fuente título.............contents_fontsize
 anchura y espaciado de secciones.content_width_spacing
 
-##demás parámetros
+##demás ajustes
 estilo de las imágenes y listas..publications
 iconos tipo skills...............basic_icon
 iconos tipo social...............social_icon
 cambio de pc a movil(990px)......mobile_icon_list_switch
                                  image_switch
 imágen de fondo de navbar........navbar_nackground_image
+imagen fondo navbar moviles......horizontal_navbar_image
 color texto de navbar............nav_bar_text_color

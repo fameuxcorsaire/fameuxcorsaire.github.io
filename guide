@@ -14,7 +14,7 @@ cambiar mb-x con x={1,2,3,4,5} para variar espaciado
 ###estilo colors/fuentes: buscar keywords en css
 color:enlaces/hipervínculos......hyperlinkcolor
 color:mail(sección a)............asectioncolor
-color:fondo + texto highlight....primarycolor(2 instances, hex+rgb)
+color:navbar + texto highlight....primarycolor(2 instances, hex+rgb)
 color:social icons...............socialiconscolor
 
 estilo:subtitulos................subheadingstyle
@@ -31,3 +31,4 @@ iconos tipo skills...............basic_icon
 iconos tipo social...............social_icon
 cambio de pc a movil(990px)......mobile_icon_list_switch
                                  image_switch
+imágen de fondo de navbar........navbar_nackground_image

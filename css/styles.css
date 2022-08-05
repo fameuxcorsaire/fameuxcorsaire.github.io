@@ -44,7 +44,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   /*primarycolor*/
-  --bs-primary-rgb: 50, 78, 137;
+  --bs-primary-rgb: 30, 78, 140;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11400,6 +11400,7 @@ p.lead {
   outline-color: #d48a6e;
 }
 
+/*navbar_nackground_image*/
 @media (min-width: 992px) {
   #sideNav {
     padding-left: 0;
@@ -11410,6 +11411,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
+    /*background-image: url(https://cdn.eso.org/images/screen/eso1105a.jpg);*/
     width: 17rem;
     height: 100vh;
   }

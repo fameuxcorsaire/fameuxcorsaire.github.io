@@ -16,6 +16,7 @@ color:enlaces/hipervínculos......hyperlinkcolor
 color:mail(sección a)............asectioncolor
 color:navbar + texto highlight....primarycolor(2 instances, hex+rgb)
 color:social icons...............socialiconscolor
+color:social icons hover.........social_icons_hover_color
 
 estilo:subtitulos................subheadingstyle
 estilo:titulos...................headingstyle
@@ -32,3 +33,4 @@ iconos tipo social...............social_icon
 cambio de pc a movil(990px)......mobile_icon_list_switch
                                  image_switch
 imágen de fondo de navbar........navbar_nackground_image
+color texto de navbar............nav_bar_text_color

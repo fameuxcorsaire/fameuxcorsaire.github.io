@@ -11391,11 +11391,16 @@ p.lead {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+/*nav_bar_text_color*/
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+  color: white;
 }
+
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
@@ -11411,7 +11416,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    /*background-image: url(https://cdn.eso.org/images/screen/eso1105a.jpg);*/
+    background-image: url(../assets/img/navbar.png);
     width: 17rem;
     height: 100vh;
   }
@@ -11459,6 +11464,8 @@ p.lead {
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
+
+/*social_icons_hover_color*/
 .social-icons .social-icon:hover {
   background-color: #FFC600;
 }
